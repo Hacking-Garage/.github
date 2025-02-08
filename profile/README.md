@@ -1,13 +1,20 @@
 ## 해킹/보안 Lab 💻
 
-- Hack The Drone 필요한 것
+### Hack The Drone 준비 (2025.01~)
   - CTF
   - Drone 앱 분석
 
-* 대시보드 -> Project 메뉴
-* 목표설정 -> Issue 메뉴
-* 질의응답 -> Discussion 메뉴
-* 공부한것 -> Storage Repository에 업로드
+#### 모의침투 (2025.11~2025.12)
+  - TryHackMe
+
+* Project 메뉴 : 일정 관리
+  - https://github.com/orgs/Hacking-Garage/projects/3
+* Issue 메뉴 : 시작일, 종료일도 기재해주세요 🙏
+  - https://github.com/Hacking-Garage/Storage/issues
+* Discussion 메뉴 : 공부한 내용 올리는 공간
+  - https://github.com/orgs/Hacking-Garage/discussions
+* Storage Repository : 연구 보고서 등 문서 업로드
+  - https://github.com/Hacking-Garage/Storage
 
 <!--
 
