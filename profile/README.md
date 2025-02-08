@@ -12,7 +12,7 @@
 ### ⚙ 주요 경로 및 용도
 * Project 메뉴 : 일정 관리
   - https://github.com/orgs/Hacking-Garage/projects/3
-* Issue 메뉴 : 시작일, 종료일도 기재해주세요 🙏
+* Issue 메뉴 : 일정 등록. 시작일, 종료일도 기재해주세요 🙏
   - https://github.com/Hacking-Garage/Storage/issues
 * Discussion 메뉴 : 공부한 내용 올리는 공간
   - https://github.com/orgs/Hacking-Garage/discussions
