@@ -10,12 +10,16 @@
 ### ⚙ 주요 경로 및 용도
 * Project 메뉴 : 일정 관리
   - https://github.com/orgs/Hacking-Garage/projects/3
-* Issue 메뉴 : 시작일, 종료일도 기재해주세요 🙏
-  - https://github.com/Hacking-Garage/Storage/issues
 * Discussion 메뉴 : 공부한 내용 올리는 공간
   - https://github.com/orgs/Hacking-Garage/discussions
+* Issue 메뉴 : 시작일, 종료일도 기재해주세요 🙏
+  - https://github.com/Hacking-Garage/Storage/issues
 * Storage Repository : 연구 보고서 등 문서 업로드
   - https://github.com/Hacking-Garage/Storage
+ 
+### 신규 멤버 해야할 일
+* Github 튜토리얼 미션 클리어
+  - https://github.com/orgs/Hacking-Garage/projects/1
 
 <!--
 
