@@ -17,7 +17,7 @@
 * Storage Repository : 연구 보고서 등 문서 업로드
   - https://github.com/Hacking-Garage/Storage
 
-### 신규 멤버가 해야할 일
+### 🥂 신규 멤버가 해야할 일
 * Github 튜토리얼
   - https://github.com/orgs/Hacking-Garage/projects/1
 
